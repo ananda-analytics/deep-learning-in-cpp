@@ -1,16 +1,16 @@
-Deep Learning All the Way Down — My Learning Journey
+# Deep Learning All the Way Down — My Learning Journey
 
 I'm following the Deep Learning All the Way Down tutorial by Kerem Kazan to understand how deep learning works from first principles, using modern C++.
 
 The goal is to build a strong understanding of the mathematical foundations and practical implementation of deep learning by working through the concepts step by step.
 
-📚 Learning Resource
+## 📚 Learning Resource
 Tutorial: Deep Learning All the Way Down
 Language: Modern C++
 Topics: Deep Learning, Mathematics, CUDA, GPU Programming
 
 
-🎯 Learning Goals
+## 🎯 Learning Goals
 
 Through this journey, I aim to understand and implement:
 
@@ -24,8 +24,7 @@ Performance Optimization: Using benchmarks and profiling to understand computati
 
 
 
-📂 Repository Structure
-text
+## 📂 Repository Structure
 .
 ├── episode-01/
 ├── episode-02/
@@ -38,11 +37,11 @@ text
 
 The structure will evolve as I progress through the tutorial.
 
-📈 Progress
+## 📈 Progress
 Tensors
 
 
-💡 Motivation
+## 💡 Motivation
 
 I believe the best way to understand deep learning is to build it from the ground up rather than treating frameworks as black boxes.
 
